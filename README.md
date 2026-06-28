@@ -23,7 +23,7 @@ código (VS Code, PyCharm, etc.) y modifique los siguientes parámetros:
      **PASSWORD = urllib.parse.quote_plus("admin")**
      --> Reemplace "admin" por la contraseña de SU servidor MySQL local.
    * Ubique la línea donde se define la ruta de salida de datos:
-     **OUTPUT_FOLDER = r"C:\Users\lenne\OneDrive\Desktop\..."**
+     **OUTPUT_DIR = r"C:\DC"**
      --> Cambie esa dirección completa por una ruta válida de SU computadora 
          donde desee que se guarden los archivos indexados .csv y .json.
 
